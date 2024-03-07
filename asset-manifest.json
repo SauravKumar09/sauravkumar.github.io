@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sauravkumar.github.io/static/css/main.bf538fe7.css",
+    "main.js": "/sauravkumar.github.io/static/js/main.2524b208.js",
+    "static/media/HeroImage.jpg": "/sauravkumar.github.io/static/media/HeroImage.1ba2753fae4a548785fb.jpg",
+    "index.html": "/sauravkumar.github.io/index.html",
+    "main.bf538fe7.css.map": "/sauravkumar.github.io/static/css/main.bf538fe7.css.map",
+    "main.2524b208.js.map": "/sauravkumar.github.io/static/js/main.2524b208.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.2524b208.js"
+  ]
+}
